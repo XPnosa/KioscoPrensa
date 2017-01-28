@@ -1,0 +1,10 @@
+INSTALACION DE LOS DATOS DE EJEMPLO
+===================================
+
+* Requisito Previo: Aplicación "Kiosco de Prensa" completamente instalada
+
+- Acceda a la siguiente url: http://localhost/phpmyadmin
+- Cuando se le solicite, introduzca el usuario y contraseña para conectar con MySQL como administrador
+- Haga click en el botón "Iniciar sesión" y seleccione la base de datos "kiosco", a continuacion haga click en "Importar"
+- Haga click en el botón "Seleccionar Archivo", busque el archivo "sample.sql" de la carpeta "SAMPLE" del CD de instalación
+- Haga click en "Abrir" y a continuación en "Continuar". Vera un mensaje informando de que la importacion se realizo con exito

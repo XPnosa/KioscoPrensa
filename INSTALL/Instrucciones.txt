@@ -1,0 +1,23 @@
+PARA WINDOWS 98/XP
+==================
+
+- Seguir los puntos 3,4 y 5 del Manual de Usuario (/DOC/Manuales/)
+
+
+
+
+PARA WINDOWS VISTA/7
+====================
+
+- Instalar los servicios Apache, MySQL, PHP y PHPMyAdmin (requisito previo)
+- Seguir los puntos 4 y 5 del Manual de Usuario (/DOC/Manuales/)
+
+
+
+
+OTRO SISTEMA OPERATIVO
+======================
+
+- Instalar los servicios Apache, MySQL, PHP y PHPMyAdmin (requisito previo)
+- Seguir el puntos 4 del Manual de Usuario (/DOC/Manuales/)
+- copiar el contenido de la carpeta "SRC" del cd de instalacion en una carpeta llamada "kiosco" dentro del directorio Web de Apache
